@@ -16,7 +16,7 @@
 
     <message>
         <repeat>15</repeat>
-        <text>You're playing on my server (#name).</text>
+        <text>You're playing on (#name).</text>
     </message>
  
  
@@ -27,7 +27,7 @@
         <delay>10</delay>
         <repeat>25</repeat>
         <onconnect>1</onconnect>
-        <text>Follow WhoKnows Who and King Alobar on YouTube</text>
+        <text>Follow King Alobar on YouTube</text>
     </message>
  
  
